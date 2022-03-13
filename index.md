@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 这里是Lim的网站
 
 You can use the [editor on GitHub](https://github.com/nce3xin/lmy-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
