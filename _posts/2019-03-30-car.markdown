@@ -1,0 +1,11 @@
+---
+title: Porsche-GT3
+subtitle: Synthesis
+layout: default
+modal-id: 6
+img: synthesis/Porsche-GT3.jpg
+thumbnail: synthesis/Porsche-GT3.jpg
+alt: image-alt
+project-date: October 2018
+description: Porsche-GT3.
+---

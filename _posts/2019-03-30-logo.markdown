@@ -1,0 +1,12 @@
+---
+title: Logo
+subtitle: Prototype
+layout: default
+modal-id: 8
+img: prototype/logo.jpg
+thumbnail: prototype/logo.jpg
+alt: image-alt
+project-date: October 2018
+description: Logo.
+
+---

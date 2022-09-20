@@ -1,0 +1,11 @@
+---
+title: Hotel (Original)
+subtitle: 2.5D
+layout: default
+modal-id: 4
+img: 2.5D/hotel.jpg
+thumbnail: 2.5D/hotel.jpg
+alt: image-alt
+project-date: October 2018
+description: Hotel. 
+---

@@ -1,0 +1,11 @@
+---
+title: Camera
+subtitle: Prototype
+layout: default
+modal-id: 9
+img: prototype/camera.jpg
+thumbnail: prototype/camera.jpg
+alt: image-alt
+project-date: October 2018
+description: Camera.
+---
